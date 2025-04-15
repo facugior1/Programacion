@@ -1,4 +1,3 @@
-La Inteligencia Artificial (IA) es un campo amplio de la informática que se enfoca en la creación de máquinas y sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. 
-Estas tareas incluyen el aprendizaje, el razonamiento, la resolución de problemas, 1  la percepción (como la visión y el habla), la comprensión del lenguaje natural y la toma de decisiones.
-El Machine Learning (ML), o aprendizaje automático, es un subcampo de la Inteligencia Artificial. Se centra en el desarrollo de algoritmos que permiten a las computadoras aprender de los datos sin ser programadas explícitamente. 
-En lugar de seguir instrucciones predefinidas, los sistemas de ML identifican patrones en grandes conjuntos de datos y utilizan estos patrones para hacer predicciones o tomar decisiones.
+La inteligencia artificial es una rama de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como entender el lenguaje, reconocer imágenes o tomar decisiones.
+Dentro de la inteligencia artificial, el machine learning —o aprendizaje automático— es una técnica que permite a las máquinas aprender a partir de datos, sin necesidad de ser programadas de forma explícita para cada tarea.
+En otras palabras, mientras la inteligencia artificial es el objetivo general de hacer que las máquinas piensen o actúen inteligentemente, el machine learning es una de las formas más comunes y efectivas de lograrlo.
